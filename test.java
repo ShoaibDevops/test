@@ -1,4 +1,4 @@
-
+//for git hub practice
 
 //calliing static variable from another class 
 class test
