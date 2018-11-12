@@ -1,4 +1,5 @@
-//for git hub practice
+//for git hub practice 
+//shoaib nadaf property
 
 //calliing static variable from another class 
 class test
